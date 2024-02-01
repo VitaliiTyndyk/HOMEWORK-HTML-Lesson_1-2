@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d4bb67b-0754-496d-8721-519ecdb1516a" name="Changes" comment="" />
+    <list default="true" id="1d4bb67b-0754-496d-8721-519ecdb1516a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON 2/HW_Lesson2_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON 2/HW_Lesson2_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON 2/HW_Lesson2_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON 2/HW_Lesson2_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON 2/HW_Lesson2_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON 2/HW_Lesson2_3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON 2/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/LESSON 2/Styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2blPSkPa6uzW63udzn68pnJ3YRC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,13 +35,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.HW_Lesson2_3.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/VITALII/IdeaProjects/HTML_DEC_2",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VITALII\IdeaProjects\HOMEWORK_HTML\LESSON 1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706786694841</updated>
-      <workItem from="1706786695975" duration="1000" />
+      <workItem from="1706786695975" duration="25559000" />
     </task>
     <servers />
   </component>
